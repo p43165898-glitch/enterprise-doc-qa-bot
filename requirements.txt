@@ -1,0 +1,7 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+streamlit==1.28.1
+pdfplumber==0.10.3
+dashscope==1.14.1
+python-dotenv==1.0.0
+numpy==1.24.3
